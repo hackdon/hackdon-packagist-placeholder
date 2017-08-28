@@ -1,0 +1,14 @@
+{
+    "name": "hackdon/packagist-placeholder-hackdon",
+    "type": "placeholder",
+    "description": "Empty project",
+    "keywords": ["placeholder"],
+    "homepage": "https://github.com/hackdon/packagist-placeholder-hackdon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Don",
+            "email": "hackdon@outlook.com"
+        }
+    ]
+}
